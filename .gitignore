@@ -3,3 +3,7 @@ packer_cache/*
 *.box
 iso/*
 output-virtualbox-iso/*
+build.hwm
+build.pwd
+build.pwi
+
